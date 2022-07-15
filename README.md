@@ -1,4 +1,4 @@
-# X Ray and Pneumonia Detection 💉
+<h1 align='center'> X Ray and Pneumonia Detection 💉 </h1>
 
 <ul>
 <li>Due to the spike of Covid cases across the world, healthcare systems have been overwhelmed. </li>
@@ -6,3 +6,9 @@
 <li>X-ray or CT-Scans are used as inputs.</li> 
 <li>This is done through a novel deep neural network based model largely inspired by the VGG16 architecture</li>
 </ul>
+
+
+
+```
+
+```
