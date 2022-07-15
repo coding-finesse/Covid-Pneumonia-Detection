@@ -21,9 +21,20 @@
 
 <ul>
 <li> <img src="https://user-images.githubusercontent.com/78272033/179258386-489dcbac-fee4-46d1-b589-cda332da9284.png" width="400" height="300" align="bottom"> </li>
+
 </ul>
 
 </p>
 
-<h2> Link to: <a href="https://drive.google.com/file/d/1oz0KH8G0SIk6KOsBYHJaIisu6ANTl8eB/view?usp=sharing">Research Paper- Covid & Pneumonia Detection </a></h2>
+
+<h2>Link to <a href="https://drive.google.com/file/d/1oz0KH8G0SIk6KOsBYHJaIisu6ANTl8eB/view?usp=sharing">Research Paper- Covid & Pneumonia Detection </a></h2>
+
+<h2>
+
+https://user-images.githubusercontent.com/78272033/179277475-f56bb3f5-f24d-42eb-aadf-41a20678c7d6.mp4
+
+</h2>
+
+
+
 
