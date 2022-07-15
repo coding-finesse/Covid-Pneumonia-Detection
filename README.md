@@ -25,5 +25,5 @@
 
 </p>
 
-<h2> Link to: <a href="https://drive.google.com/file/d/1oz0KH8G0SIk6KOsBYHJaIisu6ANTl8eB/view?usp=sharing">Research Paper- Covid & Pneumonia Detection </a></h3>
+<h2> Link to: <a href="https://drive.google.com/file/d/1oz0KH8G0SIk6KOsBYHJaIisu6ANTl8eB/view?usp=sharing">Research Paper- Covid & Pneumonia Detection </a></h2>
 
